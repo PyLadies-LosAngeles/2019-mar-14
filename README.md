@@ -12,7 +12,7 @@ In this talk Ravin will cover how to go from being an open source spectator, to 
 
 By the end of this talk you should feel both empowered, and comfortable, finding a project and joining the contributing to open source in your own way.
 
-##### About Speaker
+#### About the Speaker
 [Ravin Kumar](https://github.com/canyon289) is data scientist currently contributing to two large open source libraries, [ArviZ](https://arviz-devs.github.io/arviz/) and [PyMC](https://github.com/pymc-devs/pymc). Ravin has worked at companies such as SpaceX using data to understand and improve business operations. Ravin holds a masters in Manufacturing Engineering teaches classes on welding and fabrication at 23b hackerspace.
 
 
