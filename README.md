@@ -15,6 +15,14 @@ By the end of this talk you should feel both empowered, and comfortable, finding
 #### About the Speaker
 [Ravin Kumar](https://github.com/canyon289) is data scientist currently contributing to two large open source libraries, [ArviZ](https://arviz-devs.github.io/arviz/) and [PyMC](https://github.com/pymc-devs/pymc). Ravin has worked at companies such as SpaceX using data to understand and improve business operations. Ravin holds a masters in Manufacturing Engineering teaches classes on welding and fabrication at 23b hackerspace.
 
+## The Pies
+
+![Py Ladies Pi Day Pie Contest](https://pbs.twimg.com/media/D1rGxlFU8AATQ2t?format=jpg&name=small)
+
+The winners were:
+
+  * Tom - Pistachio Pie
+  * [Neal](https://github.com/nfultz) - Raspberry Marshmallow Pie
 
 ### Hope to see you next time!
 
